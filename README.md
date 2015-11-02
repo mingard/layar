@@ -33,7 +33,7 @@ Rather than storing text with formatting of any kind, Layar stores simple `JSON`
   "level": 1
 },
 {
-  "type: "p",
+  "type": "p",
   "start": 37,
   "end": 68,
   "level": 0
