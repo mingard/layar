@@ -48,6 +48,6 @@ Rather than storing text with formatting of any kind, Layar stores simple `JSON`
 
 > Result
 
-"<p>This is a string with some <b>bold text.</b></p><p> There are two paragraphs here.</p>"
+<p>This is a string with some <b>bold text.</b></p><p> There are two paragraphs here.</p>
 
 
