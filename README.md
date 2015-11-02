@@ -3,6 +3,8 @@ Sequestered string mapping layer with modular manipulation contexts designed for
 
 ##What is Layar
 
+[$TODO]
+
 ##Why did we create Layar
 
 ###History
@@ -50,4 +52,4 @@ Rather than storing text with formatting of any kind, Layar stores simple `JSON`
 
 <p>This is a string with some <b>bold text.</b></p><p> There are two paragraphs here.</p>
 
-
+> Example found [here](http://jsfiddle.net/arthurmingard/srkedupw/6/)
