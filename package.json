@@ -1,0 +1,34 @@
+{
+  "name": "layar",
+  "version": "1.0.0",
+  "description": "Sequestered string mapping layer with modular manipulation contexts designed for flixibility and analytical advantages.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mingard/layar.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cron",
+    "timout",
+    "repeat"
+  ],
+  "author": "Arthur Mingard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mingard/layar/issues"
+  },
+  "homepage": "https://github.com/Mingard/layar",
+  "_from": "pluralist@>=1.0.0- <1.1.0",
+  "_npmVersion": "2.1.6",
+  "_nodeVersion": "0.10.33",
+  "_npmUser": {
+    "name": "arthurmingard",
+    "email": "webservices@arthurmingard.com"
+  },
+  "maintainers": [
+    "arthurmingard <webservices@arthurmingard.com>"
+  ]
+}
