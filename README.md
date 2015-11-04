@@ -1,3 +1,5 @@
+![Layar](layar.png =100x)
+
 # layar
 Sequestered string mapping layer with modular manipulation contexts designed for flixibility and analytical advantages.
 
