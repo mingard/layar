@@ -8,7 +8,10 @@
 
 ##What is Layar
 
-[$TODO]
+[$TODO ~]
+
+- String statistics without the need for analysis
+- A middleman processor that both imports and outputs in a variety of markups
 
 ##Why did we create Layar
 
