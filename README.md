@@ -53,3 +53,44 @@ Rather than storing text with formatting of any kind, Layar stores simple `JSON`
 <p>This is a string with some <b>bold text.</b></p><p> There are two paragraphs here.</p>
 
 > Example found [here](http://jsfiddle.net/arthurmingard/srkedupw/6/)
+
+##Roadmap
+
+###Example Functions
+
+> Basic
+
+```js
+
+//Number of paragraphs
+layar.get("paragraphs").count()
+
+//Length of first paragraph
+layar.get("paragraphs", 0).length()
+
+//Acummulative length of the first 6 paragraphs
+layar.get("paragraphs", 0).to(5).length()
+
+//Everything between paragraph 1 and 5
+layar.get().from("paragraphs", 0).to(4);
+
+```
+
+> Advanced
+
+```js
+
+//Only paragraph text, without nested formatting, from paragraph 2 to 4
+layar.get("paragraphs").from(1).to(3);
+
+//Get all links from the first 3 paragraphs
+layar.get("links").from("paragraphs", 0).to(2);
+
+//Get the first quote from each (useful for pullquotes)
+layar.get("quotes", 0).from("paragraphs", 0).to();
+
+
+//All text between the second link and the third bold text
+layar.get().from("link", 1).to("bold", 2);
+
+```
