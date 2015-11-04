@@ -1,6 +1,10 @@
-![Layar](layar.png) 
+
 #Layar
-Sequestered string mapping layer with modular manipulation contexts designed for flixibility and analytical advantages.
+
+![Layar](layar.png) | Sequestered string mapping layer with modular manipulation contexts designed for flixibility and analytical advantages.
+------------ | -------------
+
+
 
 ##What is Layar
 
