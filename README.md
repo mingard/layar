@@ -8,7 +8,10 @@
 
 ##What is Layar
 
-[$TODO]
+[$TODO ~]
+
+- String statistics without the need for analysis
+- A middleman processor that both imports and outputs in a variety of markups
 
 ##Why did we create Layar
 
@@ -24,7 +27,7 @@ Whilst Markdown is more advantageous over HTML, it still requires a level of ana
 
 ###Concept
 
-Rather than storing text with formatting of any kind, Layar stores simple `JSON` 
+Rather than storing text with formatting of any kind, Layar stores simple `JSON`. You can still store as markdown, or html (if you must) but you'll never lose the raw formatting rules. The need to parse your markup text to retrieve elements, lengths, links, quotes etc goes. Layar is a map.
 
 > String
 
