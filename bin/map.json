@@ -1,0 +1,43 @@
+[
+	{
+		"type": "h1",
+	    	"start": 0,
+	    	"end": 12,
+	    	"level": 0
+	},
+	{
+		"type": "p",
+	    	"start": 12,
+	    	"end": 54,
+	    	"level": 0
+	},
+	{
+		"type": "i",
+	    	"start": 70,
+	    	"end": 76,
+	    	"level": 1
+	},
+	{
+		"type": "b",
+	    	"start": 78,
+	    	"end": 82,
+	    	"level": 1
+	},
+	{
+		"type": "code",
+	    	"start": 88,
+	    	"end": 97,
+	    	"level": 1
+	},
+	{
+		"type": "p",
+	    	"start": 55,
+	    	"end": 147,
+	    	"level": 0
+	},
+	{
+		"type": "br",
+	    	"end": 99,
+	    	"level": 1
+	}
+]
