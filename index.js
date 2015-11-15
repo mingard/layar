@@ -10,7 +10,7 @@ var example = function() {
 var compileExample = function() {
 	var sample = {
 		data: {
-			outputFormat: "html"
+			outputFormat: "markdown"
 		}
 	};
 
